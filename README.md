@@ -6,7 +6,7 @@ feel free to explore the .sh file and amend it as required
 for support or help please contact us on our telegram group https://0a0.uk/tg
 
 to run the script directly please use the following command
-" 
+" bash <(wget -qO- --no-check-certificate https://brooog.com/vpn/ub/strongswan.sh) "
 
 <!---
 brooogltd/brooogltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
